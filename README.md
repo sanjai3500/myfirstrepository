@@ -1,2 +1,2 @@
 # myfirstrepository
-its for practice
+its practice for git command line
